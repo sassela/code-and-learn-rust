@@ -1,6 +1,3 @@
-# Code & Learn: Rust
-
-
 ## Absolute Beginners
 🦀 [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
 
@@ -17,5 +14,7 @@
 ⚙️ [Rust docs](https://doc.rust-lang.org/std/index.html)
 
 📝 [Feedback form](https://forms.gle/ByYdssUJwBtnahpb6)
+
+💬 [Rust discord online chat](https://discordapp.com/invite/rust-lang)
 
 🤝🏽 [Rust London Meetup](https://www.meetup.com/Rust-London-User-Group/)
