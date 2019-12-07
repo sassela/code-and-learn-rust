@@ -1,3 +1,5 @@
+# https://sassela.github.io/code-and-learn-rust/
+
 ## Absolute Beginners
 🦀 [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
 
