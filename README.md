@@ -20,3 +20,7 @@
 💬 [Rust discord online chat](https://discordapp.com/invite/rust-lang)
 
 🤝🏽 [Rust London Meetup](https://www.meetup.com/Rust-London-User-Group/)
+
+[Rust website](https://doc.rust-lang.org/)
+
+[Playground](https://doc.rust-lang.org/)
