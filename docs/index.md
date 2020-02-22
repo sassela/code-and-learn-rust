@@ -1,4 +1,4 @@
-## Access these links at sassela.github.io/code-and-learn-rust
+## Access these links at sassela.github.io/rust
 
 ## Learn Rust
 🦀 [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
@@ -11,15 +11,15 @@
 
 ✅ [Rust lang issues: Tests needed](https://github.com/rust-lang/rust/labels/E-needstest)
 
-1️⃣ [Rust lang issues: Easy](https://github.com/rust-lang/rust/labels/E-easy)
+🟢 [Rust lang issues: Easy](https://github.com/rust-lang/rust/labels/E-easy)
 
 
 ## Contribute to a Rust project
 
 
-2️⃣ [Rust lang issues: Medium](https://github.com/rust-lang/rust/labels/E-medium)
+🟠 [Rust lang issues: Medium](https://github.com/rust-lang/rust/labels/E-medium)
 
-3️⃣ [Rust lang issues: Hard](https://github.com/rust-lang/rust/labels/E-hard)
+🔴 [Rust lang issues: Hard](https://github.com/rust-lang/rust/labels/E-hard)
 
 🌴 [Other Rust projects](https://github.com/trending/rust)
 

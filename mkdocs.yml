@@ -1,0 +1,7 @@
+site_name: Rust Code & Learn
+site_url: http://sassela.github.io/code-and-learn-rust
+theme:
+    name: material
+    custom_dir: theme
+nav:
+  - 'Rust Code & Learn': index.md
